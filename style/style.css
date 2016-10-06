@@ -53,8 +53,8 @@ nav.ul {
 
 #content {
 	margin-top: 70px;
-	margin-left: 15%;
-	margin-right: 15%;
+	margin-left: 25%;
+	margin-right: 25%;
 }
 
 #main-heading {
@@ -66,7 +66,7 @@ nav.ul {
 	border-radius: 8px;
 	float: left; 
 	margin: 0px 15px 15px 0px; 
-	width: 300px;
+	width: 250px;
 	height: auto;
 }
 
@@ -75,6 +75,15 @@ nav.ul {
 	border-radius: 8px;
 	float: right; 
 	margin: 0px 15px 15px 0px; 
-	width: 325px;
+	width: 250px;
 	height: auto;
+}
+
+.image-left2 img {
+	display: inline-block;
+	border-radius: 8px;
+	float: left; 
+	margin: 0px 15px 15px 0px; 
+	height: 200px;
+	width: auto;
 }
