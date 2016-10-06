@@ -51,39 +51,117 @@ nav.ul {
     color: #c3c6e0;
 }
 
-#content {
+#about-content {
 	margin-top: 70px;
-	margin-left: 25%;
-	margin-right: 25%;
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 #main-heading {
-	text-shadow: 2px 2px #87BCDE;
+	/*text-shadow: 2px 2px #87BCDE;*/
+	text-align: center;
+	color: #c3c6e0;
+	padding-top: 10px;
 }
 
-.image-left img {
-	display: inline-block;
-	border-radius: 8px;
-	float: left; 
-	margin: 0px 15px 15px 0px; 
-	width: 250px;
-	height: auto;
-}
-
-.image-right img {
-	display: inline-block;
-	border-radius: 8px;
-	float: right; 
-	margin: 0px 15px 15px 0px; 
-	width: 250px;
-	height: auto;
-}
-
-.image-left2 img {
-	display: inline-block;
-	border-radius: 8px;
-	float: left; 
-	margin: 0px 15px 15px 0px; 
+#welcome{
+	margin: auto;
+	margin-top: 20px;
+	width: 400px;
 	height: 200px;
-	width: auto;
+	background-color: #8d909b;
+	border-radius: 20px;
+	padding: 20px;
+	box-sizing: border-box;
+	border-radius: 45%;
+	text-align: center;
+/*	border-style: solid;
+	border-color: #c3c6e0;*/
 }
+
+#student{
+	margin-left: 20%;
+	margin-top: 10px;
+	width: 300px;
+	height: auto;
+	background-color: #8d909b;
+	border-radius: 20px;
+	padding: 20px;
+	box-sizing: border-box;
+	border-radius: 40%;
+	text-align: center;
+/*	border-style: solid;
+	border-color: #2d4654;*/
+}
+
+#student h2 {
+	text-align: center;
+	color: #87bcde;
+	padding-top: 10px;
+	/*text-shadow: 2px 2px #eaf2ef;*/
+}
+
+#see-above {
+	margin-left: 15%;
+	margin-top: 30px;
+	width: 300px;
+	height: auto;
+	background-color: #8d909b;
+	border-radius: 20px;
+	padding: 20px;
+	box-sizing: border-box;
+	border-radius: 40%;
+	text-align: center;
+/*	border-style: solid;
+	border-color: #2d4654;*/
+}
+
+#see-above h2 {
+	text-align: center;
+	color: #c3c6e0;
+	padding-top: 5px;
+	/*text-shadow: 2px 2px #eaf2ef;*/
+}
+
+#contact{
+	margin-left: 55%;
+	margin-top: -300px;
+	width: 500px;
+	height: auto;
+	background-color: #8d909b;
+	border-radius: 20px;
+	padding: 20px;
+	box-sizing: border-box;
+	border-radius: 45%;
+	padding-bottom: 20px;
+/*	border-style: solid;
+	border-color: #87bcde;*/
+}
+
+#contact h2 {
+	text-align: center;
+	color: #87bcde;
+	padding-top: 10px;
+	/*text-shadow: 2px 2px #eaf2ef;*/
+}
+
+#contact img {
+	width: 48px; 
+	height: 48px; 
+	padding-right: 5px;
+}
+
+#contact li {
+	font-size: 20px;
+	list-style: none;
+	display: block;
+	margin: 0px;
+	padding-bottom: 5px;
+	/*margin-bottom: 10px;*/
+/*	margin-left: 10px;*/
+}
+
+#contact ul {
+	padding-bottom: 10px;
+}
+
