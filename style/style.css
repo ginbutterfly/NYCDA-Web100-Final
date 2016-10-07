@@ -68,12 +68,12 @@ nav.ul {
 	margin: auto;
 	margin-top: 20px;
 	width: 400px;
-	height: 200px;
+	height: 400px;
 	background-color: #8d909b;
 	border-radius: 20px;
 	padding: 20px;
 	box-sizing: border-box;
-	border-radius: 45%;
+	border-radius: 100%;
 	text-align: center;
 /*	border-style: solid;
 	border-color: #c3c6e0;*/
