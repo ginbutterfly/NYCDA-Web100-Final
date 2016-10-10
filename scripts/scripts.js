@@ -7,6 +7,7 @@ $(document).ready(function(){
 	  		$( this ).css( "color", "#2d4654" );
 	});
 
+
 	$( "#welcome" ).hover(function() {
 	  		$( this ).css( {
 	  			"border-style": "solid",
@@ -60,6 +61,20 @@ $(document).ready(function(){
 	  			"background-color": "#8d909b", 
 	  		});
 	});
+
+
+	$( "#main-heading2" ).hover(function() {
+	  		$( this ).css( "color", "red" );
+	  	}, function() {
+	  		$( this ).css( "color", "#2d4654" );
+	});
+
+	$( ".red" ).hover(function() {
+	  		$( this ).css( "color", "red" );
+	  	}, function() {
+	  		$( this ).css( "color", "#2d4654" );
+	});
+
 	
 });
 
