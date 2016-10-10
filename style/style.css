@@ -47,7 +47,7 @@ nav.ul {
 }
 
 .links li a:hover {
-    background-color: #555;
+    background-color: #2d4654;
     color: #c3c6e0;
 }
 
@@ -168,3 +168,16 @@ nav.ul {
 	padding-bottom: 10px;
 }
 
+#contact li a {
+   text-decoration: none;
+   color: #87bcde;
+}
+
+#contact li a:visited {
+    text-decoration: none;
+}
+
+#contact li a:hover {
+	font-weight: bold;
+   color: #87bcde;
+}
